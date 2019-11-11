@@ -14,5 +14,6 @@ Contributors:
 
 [you?](https://github.com/kong/studio-feedback/issues/new)
 
+---
 
 [Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct)
